@@ -1,2 +1,7 @@
 echo "hello project"
 echo "welcome devops team"
+echo "hello project"
+echo "welcome devops team"
+echo "hello quality"
+echo "hello testing"
+echo "hello there"
