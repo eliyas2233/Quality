@@ -1,2 +1,2 @@
 echo "hello project"
-echo "welcome java team"
+echo "welcome salesforce team"
